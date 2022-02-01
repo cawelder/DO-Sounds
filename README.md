@@ -1,9 +1,15 @@
 # DO-Sounds  
 Sound Control for MrBaddeley DO V2  
-Chris Welrder 2022-1-30  
+Chris Welder 2022-1-30  
+  
 requires Robot Control Library to be included in libraries  
+  
 Follow the physical build instrutions from andy Oprisko here: https://d-o.dozuki.com/User/2/Andy+Oprisko  
 Designed for Nano and FlySky 10 Channel Controller  
+  
+Follow the instructions on the site for creating the DO-Sounds onto the memory card.  
+After adding the standard sounds add the VolUp and VolDown mp3 files located in this repository.
+  
 From Left to Right looking at the Flysky Controller  
 Switch 1 (2 positions up and Down) = SW1 -- Plays I am DO  
 Swtich 2 (2 Positions up and Down) = SW2 -- Plays Friends Ahead   
